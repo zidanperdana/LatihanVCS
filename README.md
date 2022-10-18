@@ -1,3 +1,4 @@
 # LatihanVCS
 
-cek
+Cara Menggunakan Git
+
